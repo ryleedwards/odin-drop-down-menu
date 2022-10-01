@@ -1,0 +1,25 @@
+{
+  "name": "odin-drop-down-menu",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "webpack --watch",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryleedwards/odin-drop-down-menu.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ryleedwards/odin-drop-down-menu/issues"
+  },
+  "homepage": "https://github.com/ryleedwards/odin-drop-down-menu#readme",
+  "devDependencies": {
+    "webpack-cli": "^4.10.0"
+  }
+}
